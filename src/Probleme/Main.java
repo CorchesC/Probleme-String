@@ -6,7 +6,9 @@ public class Main {
 
         Probleme probleme = new Probleme();
 
-
+        //probleme.solutie1();
+        //probleme.solutie2();
+        probleme.solutie3();
 
     }
 
